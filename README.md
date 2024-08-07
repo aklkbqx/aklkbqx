@@ -86,6 +86,7 @@
 ![Jquery](https://img.shields.io/badge/JQUERY-0773b4?style=for-the-badge&labelColor=0773b4&logo=JQUERY&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/CHAKRA%20UI-6BC6C0?style=for-the-badge&labelColor=6BC6C0&logo=chakraui&logoColor=FFF)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
