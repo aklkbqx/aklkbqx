@@ -79,9 +79,9 @@
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-e48e00?style=for-the-badge&labelColor=white&logo=mysql&logoColor=0773b4)
-![MariaDB](https://img.shields.io/badge/MARIADB-363F62?style=for-the-badge&labelColor=white&logo=MARIADB&logoColor=0773b4)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-466B92?style=for-the-badge&labelColor=fff&logo=POSTGRESQL&logoColor=466B92)
+![MySQL](https://img.shields.io/badge/MySQL-e48e00?style=for-the-badge&labelColor=e48e00&logo=mysql&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MARIADB-363F62?style=for-the-badge&labelColor=363F62&logo=MARIADB&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-466B92?style=for-the-badge&labelColor=466B92&logo=POSTGRESQL&logoColor=fff)
 
 ![Jquery](https://img.shields.io/badge/JQUERY-0773b4?style=for-the-badge&labelColor=white&logo=JQUERY&logoColor=0773b4)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
