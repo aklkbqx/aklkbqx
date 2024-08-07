@@ -84,7 +84,7 @@
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-466B92?style=for-the-badge&labelColor=466B92&logo=POSTGRESQL&logoColor=fff)
 
 ![Jquery](https://img.shields.io/badge/JQUERY-0773b4?style=for-the-badge&labelColor=0773b4&logo=JQUERY&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-58B8D6?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=58B8D6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/CHAKRA%20UI-6BC6C0?style=for-the-badge&labelColor=6BC6C0&logo=chakraui&logoColor=FFF)
 
