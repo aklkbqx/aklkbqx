@@ -61,13 +61,6 @@
 </p>
 
 
-<p  align='left'>
-<h1>
-GitStats
-</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=tasekaya&show_icons=true" />
-</p>
-
 ## Stack used
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
