@@ -66,11 +66,11 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![EXPO](https://img.shields.io/badge/EXPO-black?style=for-the-badge&labelColor=black&logo=expo&logoColor=FFF)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-7C7FB2?style=for-the-badge&labelColor=7C7FB2&logo=php&logoColor=fff)
@@ -83,7 +83,7 @@
 ![MariaDB](https://img.shields.io/badge/MARIADB-363F62?style=for-the-badge&labelColor=363F62&logo=MARIADB&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-466B92?style=for-the-badge&labelColor=466B92&logo=POSTGRESQL&logoColor=fff)
 
-![Jquery](https://img.shields.io/badge/JQUERY-0773b4?style=for-the-badge&labelColor=white&logo=JQUERY&logoColor=0773b4)
+![Jquery](https://img.shields.io/badge/JQUERY-0773b4?style=for-the-badge&labelColor=0773b4&logo=JQUERY&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
