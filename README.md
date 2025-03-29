@@ -109,7 +109,7 @@
   <a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
   <a href="#"><img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b952lddw0w1ue4qanuvchwbz15z7ihpzdv8asw29vmcl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="HTML" width="65" height="65" /></a>
   <a href="#"><img src="https://media1.tenor.com/m/80QPiB4JMLMAAAAC/logo.gif" alt="CSS" width="65" height="65" /></a>
-  <a href="#"><img src="https://miro.medium.com/v2/resize:fit:1358/0*3tK1wmES-4BY7Yfa.gif" alt="GO" width="65" height="65" /></a>
+  <a href="#"><img src="https://miro.medium.com/v2/resize:fit:1358/0*3tK1wmES-4BY7Yfa.gif" alt="GO" width="130" height="65" /></a>
 </div>
 
 <!-- Frameworks & Libraries -->
