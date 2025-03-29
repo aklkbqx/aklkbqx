@@ -118,7 +118,9 @@
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/svelte.js-d43008?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte.js" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge&logo=elysia&logoColor=white" alt="Elysia.js" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-7C7FB2?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></a>
   <a href="#"><img src="https://img.shields.io/badge/jQuery-0773b4?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /></a>
@@ -149,6 +151,7 @@
   <a href="#"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCode" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/bun-E479B3?style=for-the-badge&logo=bun&logoColor=F8F1E3" alt="bun" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
 
