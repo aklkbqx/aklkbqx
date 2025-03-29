@@ -1,5 +1,8 @@
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=350&lines=My+name+is+Akalak+Kruaboon;Website+Full+Stack+Developer;20+year+old" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=350&lines=Hi+👋+My name's +Akalak+Kruaboon;Full+Stack+Developer;20+year+old;Let's+build+something+amazing+together!" 
+         alt="Typing SVG" />
+   </a>
 </p>
 
 <div align="center">
