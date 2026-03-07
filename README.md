@@ -1,3 +1,4 @@
+<div style="background-color:#161c2b">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4175,100:0d1424&height=100&section=header" width="100%" />
 </div>
@@ -5,8 +6,8 @@
 <br />
 
 <div align="center">
-  <h1>𝑨𝒌𝒂𝒍𝒂𝒌 𝑲𝒓𝒖𝒂𝒃𝒐𝒐𝒏</h1>
-  <p>ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠ, ᴛʜᴀɪʟᴀɴᴅ</p>
+  <h1 style="color:white">𝑨𝒌𝒂𝒍𝒂𝒌 𝑲𝒓𝒖𝒂𝒃𝒐𝒐𝒏</h1>
+  <p style="color:white">ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠ, ᴛʜᴀɪʟᴀɴᴅ</p>
 </div>
 
 <br />
@@ -35,7 +36,6 @@
   <img src="https://komarev.com/ghpvc/?username=aklkbqx&label=views&color=lightgrey&style=flat-square" />
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aklkbqx&theme=transparent&hide_border=true&stroke=ddd&ring=555&fire=888&currStreakNum=555&sideNums=555&currStreakLabel=888&sideLabels=888&dates=aaa" height="140" />
 </div>
@@ -43,11 +43,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aklkbqx&theme=minimal&hide_border=true&bg_color=ffffff&color=888&line=ccc&point=888&area=true&area_color=eee" width="90%" />
+  <img style="border-radius:20px;overflow:hidden" src="https://github-readme-activity-graph.vercel.app/graph?username=aklkbqx&theme=minimal&hide_border=true&bg_color=0d1424&color=888&line=ccc&point=888&area=true&area_color=eee" width="90%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4175,100:0d1424&height=80&section=footer" width="100%"/>
+</div>
 </div>
