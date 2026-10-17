@@ -29,10 +29,6 @@
     <img src="https://img.shields.io/badge/Instagram-e1306c?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:135732879+aklkbqx@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=aklkbqx&label=views&color=lightgrey&style=flat-square" />
 </div>
 
