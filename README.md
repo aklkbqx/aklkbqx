@@ -1,50 +1,19 @@
-<div style="background-color:#161c2b">
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4175,100:0d1424&height=100&section=header" width="100%" />
-</div>
+# Akalak Kruaboon (aklkbqx)
 
-<br />
+Full-stack and systems software engineer in Thailand building local-first open-source utilities for macOS, Linux, and Windows.
 
-<div align="center">
-  <h1 style="color:white">𝑨𝒌𝒂𝒍𝒂𝒌 𝑲𝒓𝒖𝒂𝒃𝒐𝒐𝒏</h1>
-  <p style="color:white">ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠ, ᴛʜᴀɪʟᴀɴᴅ</p>
-</div>
+Website & Open-Source Hub: [aklkbqx.com](https://aklkbqx.com/) ([ภาษาไทย](https://aklkbqx.com/th/)) · [Dev.to](https://dev.to/akalak-kruaboon) · [X (@akl_kbqx)](https://x.com/akl_kbqx) · [LinkedIn](https://www.linkedin.com/in/akalak-kruaboon-93a890299/) · [GitHub Sponsors](https://github.com/sponsors/aklkbqx)
 
-<br />
+## Open-Source Developer Tools
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/akalak-kruaboon-93a890299/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/akl_kbqx">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://dev.to/akalak-kruaboon">
-    <img src="https://img.shields.io/badge/Dev.to-0a0a0a?style=flat-square&logo=devdotto&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/akl.kbqx">
-    <img src="https://img.shields.io/badge/Instagram-e1306c?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=aklkbqx&label=views&color=lightgrey&style=flat-square" />
-</div>
+| Project | What it does | Install |
+| :--- | :--- | :--- |
+| [**agy-swap**](https://agy-swap.aklkbqx.com/) ([repo](https://github.com/aklkbqx/agy-swap)) | Switch Google Antigravity accounts across the `agy` CLI and Antigravity IDE from one terminal, inspect live 5-hour and weekly Gemini, Claude/GPT, and Gemini 4 Argon quota pools with local reset times, and rotate sessions locally. | `brew install aklkbqx/agy-swap/agy-swap` |
+| [**WOL Wake Desk**](https://wol.aklkbqx.com/) ([repo](https://github.com/aklkbqx/wol)) | Wake sleeping machines over LAN or OpenWrt SSH `etherwake` relays, verify readiness across TCP, ICMP ping, and ARP, and open RDP, SSH, VNC, or Moonlight from a local SQLite inventory. | `brew install aklkbqx/wol/wol` |
+| [**SnapClip**](https://aklkbqx.com/snapclip/) ([repo](https://github.com/aklkbqx/snapclip)) | Copy macOS screenshots (`Cmd+Shift+3`, `4`, or `5`) to your clipboard and save to Desktop at the same time, removing the 5-second floating thumbnail wait without Screen Recording permissions. | `brew install aklkbqx/snapclip/snapclip` |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aklkbqx&theme=transparent&hide_border=true&stroke=ddd&ring=555&fire=888&currStreakNum=555&sideNums=555&currStreakLabel=888&sideLabels=888&dates=aaa" height="140" />
-</div>
+## Technical Guides
 
-<br />
-
-<div align="center">
-  <img style="border-radius:20px;overflow:hidden" src="https://github-readme-activity-graph.vercel.app/graph?username=aklkbqx&theme=minimal&hide_border=true&bg_color=0d1424&color=888&line=ccc&point=888&area=true&area_color=eee" width="90%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4175,100:0d1424&height=80&section=footer" width="100%"/>
-</div>
-</div>
+- [Switch Google Antigravity CLI & IDE accounts and check quota reset times](https://aklkbqx.com/guides/google-antigravity-account-switcher/) ([ไทย](https://aklkbqx.com/th/guides/google-antigravity-account-switcher/))
+- [Wake sleeping computers over LAN or OpenWrt SSH and open RDP, SSH, VNC, or Moonlight](https://aklkbqx.com/guides/wake-on-lan-remote-access/) ([ไทย](https://aklkbqx.com/th/guides/wake-on-lan-remote-access/))
+- [Copy and save macOS screenshots immediately with SnapClip](https://aklkbqx.com/snapclip/) ([ไทย](https://aklkbqx.com/th/snapclip/))
