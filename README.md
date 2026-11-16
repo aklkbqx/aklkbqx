@@ -10,7 +10,7 @@ Website & Open-Source Hub: [aklkbqx.com](https://aklkbqx.com/) ([ภาษาไ
 | :--- | :--- | :--- |
 | [**agy-swap**](https://agy-swap.aklkbqx.com/) ([repo](https://github.com/aklkbqx/agy-swap)) | Switch Google Antigravity accounts across the `agy` CLI and Antigravity IDE from one terminal, inspect live 5-hour and weekly Gemini, Claude/GPT, and Gemini 4 Argon quota pools with local reset times, and rotate sessions locally. | `brew install aklkbqx/agy-swap/agy-swap` |
 | [**WOL Wake Desk**](https://wol.aklkbqx.com/) ([repo](https://github.com/aklkbqx/wol)) | Wake sleeping machines over LAN or OpenWrt SSH `etherwake` relays, verify readiness across TCP, ICMP ping, and ARP, and open RDP, SSH, VNC, or Moonlight from a local SQLite inventory. | `brew install aklkbqx/wol/wol` |
-| [**SnapClip**](https://aklkbqx.com/snapclip/) ([repo](https://github.com/aklkbqx/snapclip)) | Copy macOS screenshots (`Cmd+Shift+3`, `4`, or `5`) to your clipboard and save to Desktop at the same time, removing the 5-second floating thumbnail wait without Screen Recording permissions. | `brew install aklkbqx/snapclip/snapclip` |
+| [**SnapClip**](https://snapclip.aklkbqx.com/) ([repo](https://github.com/aklkbqx/snapclip)) | Copy macOS screenshots (`Cmd+Shift+3`, `4`, or `5`) to your clipboard and save to Desktop at the same time, removing the 5-second floating thumbnail wait without Screen Recording permissions. | `brew install aklkbqx/snapclip/snapclip` |
 
 ## Technical Guides
 
